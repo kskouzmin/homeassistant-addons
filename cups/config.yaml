@@ -5,6 +5,7 @@ image: ghcr.io/maxwinterstein/homeassistant-addon-cups-{arch}
 slug: cups
 description: A CUPS print server with working AirPrint
 arch:
+  - armv7
   - armhf
   - amd64
   - aarch64
