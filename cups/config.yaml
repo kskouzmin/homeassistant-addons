@@ -13,6 +13,8 @@ usb: true
 init: false
 homeassistant_api: true
 host_network: true
+panel_icon: mdi:printer-settings
+panel_title: CUPS
 ports:
   631/tcp: 631
   631/udp: 631
